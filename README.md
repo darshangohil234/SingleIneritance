@@ -1,0 +1,2 @@
+# SingleIneritance
+Single Inheritance
